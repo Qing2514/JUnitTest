@@ -2,4 +2,4 @@
 
 ### JUnit 测试
 
-使用Junit对Rectangle程序中的函数getArea()、getPerimeter()和findMax()进行测试。
+使用 Junit 对 Rectangle 程序中的函数 getArea()、getPerimeter() 和 findMax() 进行测试。
